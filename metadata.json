@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Blog Personal Minimalista",
+  "description": "Aplicación web de blog personal minimalista con vista pública editorial, lectura cuidada y panel de administración protegido para gestión de entradas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
